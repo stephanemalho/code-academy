@@ -8,7 +8,7 @@ body {
     max-width: 1200px;
     padding: 5px;
     font-family: 'Zen Dots', cursive;
-    background-image: url("./images/pattern.jpeg");
+    background-color: beige;
     object-fit: cover;
     object-position: 50% 80%;
 
